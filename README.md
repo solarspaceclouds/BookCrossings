@@ -1,7 +1,7 @@
 # BookCrossings
  Recommender System Implementation on Book Crossings Dataset
 
-This project is an implementation of 3 types of computation on Collaborative Filtering (CF):
+This project is an implementation of 3 types of computation on Collaborative Filtering (CF) for Recommendation System:
 ### 1. User-based Collaborative Filtering
 ### 2. Item-based Collaborative Filtering
 ### 3. Latent Factor Approach - Matrix Factorization
