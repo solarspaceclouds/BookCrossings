@@ -1,4 +1,4 @@
-# BookCrossings
+# Recommendation System (Collaborative Filtering) for Book Crossings Dataset 
  Recommender System Implementation on Book Crossings Dataset
 
 This project is an implementation of 3 types of computation on Collaborative Filtering (CF) for Recommendation System:
