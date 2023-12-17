@@ -21,7 +21,8 @@ This project is an implementation of 3 types of computation on Collaborative Fil
 
 
 ## To do: 
-Further refactoring
+- Further refactoring
+- Write up explanation/logic/details for the 3 CF approaches --- stay tuned (:
 
 ## References: 
 https://realpython.com/build-recommendation-engine-collaborative-filtering/ 
