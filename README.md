@@ -6,6 +6,8 @@ This project is an implementation of 3 types of computation on Collaborative Fil
 ### 2. Item-based Collaborative Filtering
 ### 3. Latent Factor Approach - Matrix Factorization
 
+Write up explanation/logic/details for the 3 CF approaches is available at: https://writedsaistories.wixsite.com/writedsaistories/post/recommendation-systems
+
 ## Instructions
 **Step 1:** Run the Create_all_ratings.ipynb to create all_ratings.csv (which is a merged dataset that contains information from the 3 datasets in raw_data folder: BX_Books.csv, BX-Book-Ratings.csv, BX-Users.csv
 
@@ -19,10 +21,9 @@ This project is an implementation of 3 types of computation on Collaborative Fil
 **RecSys_ItemBasedCF_predict_ratings** : implements the item-based CF for book recommendation
 **RecSys_matrixfactorization_predict_ratings** : implements the latent factor approach - matrix factoirzation for book recommendation
 
-
 ## To do: 
 - Further refactoring
-- Write up explanation/logic/details for the 3 CF approaches --- stay tuned (:
+- Attempt from-scratch implementation of CF approaches
 
 ## References: 
 https://realpython.com/build-recommendation-engine-collaborative-filtering/ 
